@@ -1,0 +1,22 @@
+PODS:
+  - FrameworkA (0.1.0):
+    - FrameworkB (~> 0.1.0)
+  - FrameworkB (0.1.0)
+
+DEPENDENCIES:
+  - FrameworkA (from `../`)
+  - FrameworkB (from `../FrameworkB`)
+
+EXTERNAL SOURCES:
+  FrameworkA:
+    :path: ../
+  FrameworkB:
+    :path: ../FrameworkB
+
+SPEC CHECKSUMS:
+  FrameworkA: 24e5d77543f651b83d0c83ee5e597c0ee146ef05
+  FrameworkB: 2a6357e1af580344558922837ab3131b8fb724cb
+
+PODFILE CHECKSUM: de5b3827850b63b01209d13188b8c79ec13f7ce3
+
+COCOAPODS: 1.2.1

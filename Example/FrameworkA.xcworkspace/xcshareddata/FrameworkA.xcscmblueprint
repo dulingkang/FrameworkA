@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9EF00FC43C9FEE39EAD03EC373B26ADE86EA1521",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0C38B7EF2F752A2E59FB1763CA88EDC56A2354CC" : 9223372036854775807,
+    "9EF00FC43C9FEE39EAD03EC373B26ADE86EA1521" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CA3FC8A8-2363-4657-83D4-B9098E506A41",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0C38B7EF2F752A2E59FB1763CA88EDC56A2354CC" : "FrameworkA\/FrameworkB\/",
+    "9EF00FC43C9FEE39EAD03EC373B26ADE86EA1521" : "FrameworkA\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FrameworkA",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/FrameworkA.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dulingkang\/FrameworkB.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0C38B7EF2F752A2E59FB1763CA88EDC56A2354CC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/dulingkang\/FrameworkA.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9EF00FC43C9FEE39EAD03EC373B26ADE86EA1521"
+    }
+  ]
+}

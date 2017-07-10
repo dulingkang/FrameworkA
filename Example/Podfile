@@ -2,7 +2,7 @@ use_frameworks!
 
 target 'FrameworkA_Example' do
   pod 'FrameworkA', :path => '../'
-
+  pod 'FrameworkB', :path => '../FrameworkB'
   target 'FrameworkA_Tests' do
     inherit! :search_paths
 

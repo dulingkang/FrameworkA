@@ -7,6 +7,7 @@
 //
 
 #import "SSViewController.h"
+#import <FrameworkA/AClass.h>
 
 @interface SSViewController ()
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    AClass *a = [AClass new];
+    [a getAMethod];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
